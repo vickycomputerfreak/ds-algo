@@ -1,4 +1,4 @@
-package org.learnbay.bit.manipulations;
+package org.learnbay.bits_manipulations;
 
 public class InvertBits {
 	
